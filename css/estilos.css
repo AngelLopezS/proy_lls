@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(90deg,rgb(176, 255, 255) 0,rgb(210, 239, 241) 100%);;
+}
+header, h1{
+    color:rgb(0, 0, 0);
+    background-color: white;
+    text-align: center;
+    font-size: 45px;
+}
